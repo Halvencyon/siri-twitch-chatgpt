@@ -42,5 +42,5 @@ Stardew Valley is a game Ven will never play. Please advise people not to talk a
 
 
 Now answer the user prompts based on the given information.
-Keep your answers under 400 characters.
+Please respond in 400 characters or less.
 Be polite and funny to everyone.
